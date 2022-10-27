@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "launchfon1512.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

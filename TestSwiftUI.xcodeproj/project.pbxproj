@@ -11,6 +11,23 @@
 		84296B6F2820CEB0003E516B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84296B6E2820CEB0003E516B /* ContentView.swift */; };
 		84296B712820CEB4003E516B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84296B702820CEB4003E516B /* Assets.xcassets */; };
 		84296B742820CEB4003E516B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84296B732820CEB4003E516B /* Preview Assets.xcassets */; };
+		842F0C6C282CDE44008883D9 /* iPhoneNumberField in Frameworks */ = {isa = PBXBuildFile; productRef = 842F0C6B282CDE44008883D9 /* iPhoneNumberField */; };
+		843125E32859C8BD00D79F8C /* TestDatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843125E22859C8BD00D79F8C /* TestDatePicker.swift */; };
+		843125E7285B0D7000D79F8C /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843125E6285B0D7000D79F8C /* Home.swift */; };
+		843125E9285B0D8000D79F8C /* myDatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843125E8285B0D8000D79F8C /* myDatePicker.swift */; };
+		843125EB285B369C00D79F8C /* VMDatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843125EA285B369C00D79F8C /* VMDatePicker.swift */; };
+		84479CC928D17C6D0003B194 /* FirstAnim.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84479CC828D17C6D0003B194 /* FirstAnim.swift */; };
+		84530C2B2861684B00AA33EE /* Satisfy-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 84530C292861681900AA33EE /* Satisfy-Regular.ttf */; };
+		84530C2D286168FA00AA33EE /* TestFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84530C2C286168FA00AA33EE /* TestFont.swift */; };
+		84530C3728616F1700AA33EE /* DancingScript-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 84530C3628616F1700AA33EE /* DancingScript-SemiBold.ttf */; };
+		84530C3928616F7D00AA33EE /* DancingScript-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 84530C3828616F7D00AA33EE /* DancingScript-Bold.ttf */; };
+		84530C3B2861702600AA33EE /* DancingScript-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 84530C3A2861702600AA33EE /* DancingScript-VariableFont_wght.ttf */; };
+		8468FD6328FE9C0E00BDAA8B /* TestZStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8468FD6228FE9C0E00BDAA8B /* TestZStack.swift */; };
+		84C9687B28446BC1000DCC86 /* CustomHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C9687A28446BC1000DCC86 /* CustomHeader.swift */; };
+		84D7EAD2284855750025F15B /* Nav.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D7EAD1284855750025F15B /* Nav.swift */; };
+		84D7EAD42848C40E0025F15B /* CustomASheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D7EAD32848C40E0025F15B /* CustomASheet.swift */; };
+		84F8336A2873E7C100E5CAC2 /* TestLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F833692873E7C100E5CAC2 /* TestLink.swift */; };
+		84F8337C2877DF7500E5CAC2 /* geometry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F8337B2877DF7500E5CAC2 /* geometry.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +36,24 @@
 		84296B6E2820CEB0003E516B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		84296B702820CEB4003E516B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84296B732820CEB4003E516B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		843125E22859C8BD00D79F8C /* TestDatePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestDatePicker.swift; sourceTree = "<group>"; };
+		843125E42859D28A00D79F8C /* TestDate.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TestDate.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		843125E6285B0D7000D79F8C /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		843125E8285B0D8000D79F8C /* myDatePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myDatePicker.swift; sourceTree = "<group>"; };
+		843125EA285B369C00D79F8C /* VMDatePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VMDatePicker.swift; sourceTree = "<group>"; };
+		84479CC828D17C6D0003B194 /* FirstAnim.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstAnim.swift; sourceTree = "<group>"; };
+		84530C292861681900AA33EE /* Satisfy-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Satisfy-Regular.ttf"; sourceTree = "<group>"; };
+		84530C2C286168FA00AA33EE /* TestFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestFont.swift; sourceTree = "<group>"; };
+		84530C3628616F1700AA33EE /* DancingScript-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DancingScript-SemiBold.ttf"; sourceTree = "<group>"; };
+		84530C3828616F7D00AA33EE /* DancingScript-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DancingScript-Bold.ttf"; sourceTree = "<group>"; };
+		84530C3A2861702600AA33EE /* DancingScript-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DancingScript-VariableFont_wght.ttf"; sourceTree = "<group>"; };
+		8468FD6228FE9C0E00BDAA8B /* TestZStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestZStack.swift; sourceTree = "<group>"; };
+		84C9687A28446BC1000DCC86 /* CustomHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomHeader.swift; sourceTree = "<group>"; };
+		84C9687F284475E7000DCC86 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		84D7EAD1284855750025F15B /* Nav.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nav.swift; sourceTree = "<group>"; };
+		84D7EAD32848C40E0025F15B /* CustomASheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomASheet.swift; sourceTree = "<group>"; };
+		84F833692873E7C100E5CAC2 /* TestLink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestLink.swift; sourceTree = "<group>"; };
+		84F8337B2877DF7500E5CAC2 /* geometry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = geometry.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +61,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				842F0C6C282CDE44008883D9 /* iPhoneNumberField in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -51,10 +87,26 @@
 		84296B6B2820CEB0003E516B /* TestSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				84530C3828616F7D00AA33EE /* DancingScript-Bold.ttf */,
+				843125E5285B0D5C00D79F8C /* CustomDatePicker */,
+				84C9687F284475E7000DCC86 /* Info.plist */,
+				84530C292861681900AA33EE /* Satisfy-Regular.ttf */,
+				84C9687A28446BC1000DCC86 /* CustomHeader.swift */,
 				84296B6C2820CEB0003E516B /* TestSwiftUIApp.swift */,
 				84296B6E2820CEB0003E516B /* ContentView.swift */,
 				84296B702820CEB4003E516B /* Assets.xcassets */,
 				84296B722820CEB4003E516B /* Preview Content */,
+				84D7EAD1284855750025F15B /* Nav.swift */,
+				84D7EAD32848C40E0025F15B /* CustomASheet.swift */,
+				843125E22859C8BD00D79F8C /* TestDatePicker.swift */,
+				843125E42859D28A00D79F8C /* TestDate.playground */,
+				84530C2C286168FA00AA33EE /* TestFont.swift */,
+				84530C3A2861702600AA33EE /* DancingScript-VariableFont_wght.ttf */,
+				84530C3628616F1700AA33EE /* DancingScript-SemiBold.ttf */,
+				84F833692873E7C100E5CAC2 /* TestLink.swift */,
+				84F8337B2877DF7500E5CAC2 /* geometry.swift */,
+				84479CC828D17C6D0003B194 /* FirstAnim.swift */,
+				8468FD6228FE9C0E00BDAA8B /* TestZStack.swift */,
 			);
 			path = TestSwiftUI;
 			sourceTree = "<group>";
@@ -65,6 +117,16 @@
 				84296B732820CEB4003E516B /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		843125E5285B0D5C00D79F8C /* CustomDatePicker */ = {
+			isa = PBXGroup;
+			children = (
+				843125E6285B0D7000D79F8C /* Home.swift */,
+				843125E8285B0D8000D79F8C /* myDatePicker.swift */,
+				843125EA285B369C00D79F8C /* VMDatePicker.swift */,
+			);
+			path = CustomDatePicker;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +145,9 @@
 			dependencies = (
 			);
 			name = TestSwiftUI;
+			packageProductDependencies = (
+				842F0C6B282CDE44008883D9 /* iPhoneNumberField */,
+			);
 			productName = TestSwiftUI;
 			productReference = 84296B692820CEB0003E516B /* TestSwiftUI.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +176,9 @@
 				Base,
 			);
 			mainGroup = 84296B602820CEB0003E516B;
+			packageReferences = (
+				842F0C6A282CDE44008883D9 /* XCRemoteSwiftPackageReference "iPhoneNumberField" */,
+			);
 			productRefGroup = 84296B6A2820CEB0003E516B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,8 +193,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84530C2B2861684B00AA33EE /* Satisfy-Regular.ttf in Resources */,
 				84296B742820CEB4003E516B /* Preview Assets.xcassets in Resources */,
 				84296B712820CEB4003E516B /* Assets.xcassets in Resources */,
+				84530C3B2861702600AA33EE /* DancingScript-VariableFont_wght.ttf in Resources */,
+				84530C3728616F1700AA33EE /* DancingScript-SemiBold.ttf in Resources */,
+				84530C3928616F7D00AA33EE /* DancingScript-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +209,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84D7EAD42848C40E0025F15B /* CustomASheet.swift in Sources */,
+				843125E32859C8BD00D79F8C /* TestDatePicker.swift in Sources */,
 				84296B6F2820CEB0003E516B /* ContentView.swift in Sources */,
+				84F8336A2873E7C100E5CAC2 /* TestLink.swift in Sources */,
+				84D7EAD2284855750025F15B /* Nav.swift in Sources */,
 				84296B6D2820CEB0003E516B /* TestSwiftUIApp.swift in Sources */,
+				84C9687B28446BC1000DCC86 /* CustomHeader.swift in Sources */,
+				84530C2D286168FA00AA33EE /* TestFont.swift in Sources */,
+				843125E7285B0D7000D79F8C /* Home.swift in Sources */,
+				8468FD6328FE9C0E00BDAA8B /* TestZStack.swift in Sources */,
+				84F8337C2877DF7500E5CAC2 /* geometry.swift in Sources */,
+				843125E9285B0D8000D79F8C /* myDatePicker.swift in Sources */,
+				84479CC928D17C6D0003B194 /* FirstAnim.swift in Sources */,
+				843125EB285B369C00D79F8C /* VMDatePicker.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,6 +354,7 @@
 				DEVELOPMENT_TEAM = RX5Y3YGAM3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = TestSwiftUI/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -299,6 +384,7 @@
 				DEVELOPMENT_TEAM = RX5Y3YGAM3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = TestSwiftUI/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -339,6 +425,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		842F0C6A282CDE44008883D9 /* XCRemoteSwiftPackageReference "iPhoneNumberField" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/MojtabaHs/iPhoneNumberField.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		842F0C6B282CDE44008883D9 /* iPhoneNumberField */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 842F0C6A282CDE44008883D9 /* XCRemoteSwiftPackageReference "iPhoneNumberField" */;
+			productName = iPhoneNumberField;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 84296B612820CEB0003E516B /* Project object */;
 }
